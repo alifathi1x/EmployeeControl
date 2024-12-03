@@ -5,5 +5,8 @@ when the worker is not sitting and not working or they are sleeping at work or u
 and when they are at work detector will detect them working and the box around them will be green
 
 
-Uploading a.mp4…
+https://github.com/user-attachments/assets/af8f005a-5e39-43d5-b597-6c005a218ea3
+
+
+
 
